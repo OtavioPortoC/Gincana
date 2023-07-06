@@ -1,0 +1,17 @@
+body {
+    background-image: url(star.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container img {
+    max-width: 100%;
+    max-height: 100%;
+  }
